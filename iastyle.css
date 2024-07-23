@@ -1,0 +1,57 @@
+body {
+    background-color: orangered;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  margin: 0;
+  
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    font-family: "Montserrat", sans-serif;
+    background-color: rgb(0, 119, 255);
+    color: white;
+    font-weight: bold;
+    padding: 40px;
+    margin: 0;
+
+}
+
+h2 {
+  text-align: right;
+  font-size: 2em;
+  color: white;
+  text-decoration: underline;
+}
+
+textarea {
+  text-align: left;
+  font-family: Arial, sans-serif;
+  size: 2em;
+  font-size: 16px
+  font-size: 100pt;
+  width: 500px;
+  height: 400px;
+  border: 2p
+  
+}
+
+img {
+  align-items: left;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container-img {
+   display: flex;
+   flex-direction: column;
+}
+
+.border {
+  border: 1px solid;
+}
